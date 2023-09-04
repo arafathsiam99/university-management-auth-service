@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Next-Level-PH\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\.2d118960be985d02a351a75f71b717bac244ab88-audit.json",
+    "files": [
+        {
+            "date": 1686566456478,
+            "name": "D:\\Next-Level-PH\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-12-06-16-error.log",
+            "hash": "e7ecaf9830140a9c0d8a29f0a1ef3216ddf712b68179f917a215148df07d5f7d"
+        },
+        {
+            "date": 1686577622781,
+            "name": "D:\\Next-Level-PH\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-12-06-19-error.log",
+            "hash": "e244e0561ffd6fab53b9e0e064bbf0baaed6be953dd358a2cf41dacb1c47d9a7"
+        },
+        {
+            "date": 1686578479295,
+            "name": "D:\\Next-Level-PH\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-12-06-20-error.log",
+            "hash": "b256250a258323201ba7cad48ff42663a8fa39783a8ea77fcc46eed8b0cadb63"
+        },
+        {
+            "date": 1686582230011,
+            "name": "D:\\Next-Level-PH\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-12-06-21-error.log",
+            "hash": "9e33e9f92cf64dca547943d3086c121ab3ecd7b3e56d881f16debbe4547f9303"
+        },
+        {
+            "date": 1686758033271,
+            "name": "D:\\Next-Level-PH\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-14-06-21-error.log",
+            "hash": "08795fbb9bd00c200cba16a4c51de5ba019ce9aa018f1871bb730e61a6b91cc6"
+        },
+        {
+            "date": 1686758432079,
+            "name": "D:\\Next-Level-PH\\Milestone_3\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-14-06-22-error.log",
+            "hash": "39845d9da069f4e097d786331b8a14c176a2c4f5a8e14588867c6d8706ee73a8"
+        }
+    ],
+    "hashType": "sha256"
+}
